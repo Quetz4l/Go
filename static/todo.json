@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "task": "Написать отчет по проекту",
+    "due_date": "2024-08-01T00:00:00Z",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "Подготовить презентацию",
+    "due_date": "2024-08-02T00:00:00Z",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "task": "Созвон с клиентом",
+    "due_date": "2024-08-03T00:00:00Z",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Купить продукты",
+    "due_date": "2024-08-01T00:00:00Z",
+    "priority": "Low",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "task": "Прочитать новую книгу",
+    "due_date": "2024-08-05T00:00:00Z",
+    "priority": "Low",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "task": "Обновить резюме",
+    "due_date": "2024-08-04T00:00:00Z",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "task": "Запланировать отпуск",
+    "due_date": "2024-08-06T00:00:00Z",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "task": "Посетить тренажерный зал",
+    "due_date": "2024-08-02T00:00:00Z",
+    "priority": "Low",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "task": "Написать статью для блога",
+    "due_date": "2024-08-03T00:00:00Z",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "task": "Поздравить друга с днем рождения",
+    "due_date": "2024-08-01T00:00:00Z",
+    "priority": "High",
+    "completed": false
+  }
+]
